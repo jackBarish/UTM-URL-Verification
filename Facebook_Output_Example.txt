@@ -1,0 +1,7 @@
+["URL:0 Status:True HTTP_Code:200 Title:Facebook Encoding:utf-8 UTM_LANG:['EN'] | PAGE_LANG:en ContentID:['_8996']"]
+["URL:1 Status:True HTTP_Code:200 Title:Facebook Encoding:utf-8 UTM_LANG:['EN'] | PAGE_LANG:en ContentID:['_8997']"]
+["URL:2 Status:True HTTP_Code:200 Title:Facebook Encoding:utf-8 UTM_LANG:['EN'] | PAGE_LANG:en ContentID:['_8998']"]
+
+
+~~~Completed:01/10/23   13:09
+~~~URL'S Analyzed:3
